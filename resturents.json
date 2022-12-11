@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "6395ed32cd23fcaaebc4d0d8"
+  },
+  "name": "resturent 1",
+  "adrees": {
+    "city": "telaviv",
+    "street": "Four14",
+    "coordinates": [
+      -77,
+      564,
+      40.677
+    ]
+  },
+  "Kosher": "true",
+  "reviews": [
+    {
+      "date": "11/12/22",
+      "score": 5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6395efbacd23fcaaebc4d0d9"
+  },
+  "name": "resturent 2",
+  "adrees": {
+    "city": "ashdod",
+    "street": "2",
+    "coordinates": [
+      -76,
+      563,
+      40.677
+    ]
+  },
+  "Kosher": "true",
+  "reviews": [
+    {
+      "date": "10/11/22",
+      "score": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6395f1e3cd23fcaaebc4d0da"
+  },
+  "name": "resturent 3",
+  "adrees": {
+    "city": "london",
+    "street": "3",
+    "coordinates": [
+      -72,
+      561,
+      30.658
+    ]
+  },
+  "Halack": "true",
+  "reviews": [
+    {
+      "date": "10/10/22",
+      "score": 3
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6395f386cd23fcaaebc4d0db"
+  },
+  "name": "resturent 5",
+  "adrees": {
+    "city": "london",
+    "street": "3",
+    "coordinates": [
+      -72,
+      561,
+      30.658
+    ]
+  },
+  "notkosher": "true",
+  "reviews": [
+    {
+      "date": "10/10/22",
+      "score": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6395f667cd23fcaaebc4d0dc"
+  },
+  "name": "resturent 4",
+  "adrees": {
+    "city": "telaviv",
+    "street": "3",
+    "coordinates": [
+      -72,
+      561,
+      30.658
+    ]
+  },
+  "halack": "true",
+  "reviews": [
+    {
+      "date": "10/08/22",
+      "score": 5
+    }
+  ]
+}]
